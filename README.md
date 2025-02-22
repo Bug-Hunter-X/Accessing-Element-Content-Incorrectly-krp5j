@@ -1,0 +1,1 @@
+This example demonstrates a common error when trying to access the content of an HTML element using JavaScript. The incorrect approach is shown in the `bug.html` file. The correct way to do this is shown in the `bugSolution.html` file.
